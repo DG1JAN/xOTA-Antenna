@@ -3,8 +3,10 @@ A pcb for end fed antennas (EFHW, random wire) for SOTA, POTA,... xOTA
 ![alt text](https://github.com/DG1JAN/xOTA-Antenna/blob/main/xOTA_Ant_3D_Pic1.png)
 
 
-BOM (links to Distributors are only examples):
+BOM 
 -----------------------------------------------------------------------------------------------------
+(links to Distributors are only examples)
+
 1x PCB: custom order with gerber files e.g. from https://www.jlcpcb.com
 
 1x Torroid	- e.g. Fair-Rite	5943001001 (alt. Amidon FT114-43, or FT82-43 [with reduced power rating])	
