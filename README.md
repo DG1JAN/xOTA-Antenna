@@ -1,5 +1,10 @@
 # xOTA-Antenna
-A pcb for end fed antennas (EFHW, random wire) for SOTA, POTA,... xOTA
+**A pcb for end fed antennas (EFHW, random wire) for SOTA, POTA,... xOTA** <br /><br />
+maximum power rating: 
+* FT-114-43: 25W SSB/CW or 10W FT8 (etc)
+* FT-82-43: 10W SSB/CM or 5W FT8 (etc)
+<br />
+
 ![alt text](https://github.com/DG1JAN/xOTA-Antenna/blob/main/xOTA_Ant_3D_Pic1.png)
 
 ![alt text](https://github.com/DG1JAN/xOTA-Antenna/blob/main/xOTA-Antenna_example_beta.jpg)
@@ -13,7 +18,6 @@ A pcb for end fed antennas (EFHW, random wire) for SOTA, POTA,... xOTA
 
 *here you can find the gerber files as ZIP-Archive: https://github.com/DG1JAN/xOTA-Antenna/blob/main/xota-gerber.zip <br />
 Manuel (Dl2MAN) has made a good video to explain the ordering process for JLCPCB and Aisler: https://www.youtube.com/watch?v=1b3oLp7s9gk&t=202s*
-
 
 1x Torroid	- e.g. Fair-Rite	5943001001 (alt. Amidon FT114-43, or FT82-43 [with reduced power rating])	
 https://www.digikey.de/de/products/detail/fair-rite-products-corp/5943001001/8599631?s=N4IgTCBcDaIKwE4AsBmADGgjBzg4AgAQgC6AvkA
