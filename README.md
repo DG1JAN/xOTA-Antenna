@@ -10,7 +10,7 @@ maximum power rating:
 ![alt text](https://github.com/DG1JAN/xOTA-Antenna/blob/main/xOTA-Antenna_example_beta.jpg)
 *pictures are from prev. proto design, will be updated with v1.0 soon.
 
-## BOM 
+## BOM (1:49 UnUn for EFHW)
 
 (links to Distributors are only examples)
 
@@ -37,3 +37,5 @@ https://www.amazon.de/GTIWUNG-Vergoldete-Bananenstecker-Elektronische-Kugelsteck
 8 cm Shrink tube 40mm wide - e.g. ISOLATECH	Shrink Tube 40mm  3:1 with glue	
 https://www.amazon.de/gp/product/B06WVCGD7M/ref=ppx_yo_dt_b_asin_title_o09_s01?ie=UTF8&psc=1
 
+
+The winder can also be used with other UnUn windings (like 1:9, 1:4) to build non resonant ("random wire") endfed antennas.
