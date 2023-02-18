@@ -11,7 +11,7 @@ maximum power rating:
 (*the two bottom pictures are from the prev. proto desig (labeled as "EFHW" instead of "xOTA-Antenna").
 
 ## BOM (1:49 UnUn for EFHW*)
-*The winder can also be used with other UnUn windings (like 1:9, 1:4) to build non resonant ("random wire") endfed antennas.
+*The PCB can also be used with other UnUn windings (like 1:9, 1:4) to build non resonant ("random wire") endfed antennas.
 (links to Distributors are only examples)
 
 1x PCB: custom order from PCB manufacturer e.g. from https://www.jlcpcb.com or https://aisler.net/
