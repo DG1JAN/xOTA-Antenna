@@ -10,8 +10,8 @@ maximum power rating:
 ![alt text](https://github.com/DG1JAN/xOTA-Antenna/blob/main/xOTA-Antenna_example.jpg)
 (*the two bottom pictures are from the prev. proto desig (labeled as "EFHW" instead of "xOTA-Antenna").
 
-## BOM (1:49 UnUn for EFHW)
-
+## BOM (1:49 UnUn for EFHW*)
+*The winder can also be used with other UnUn windings (like 1:9, 1:4) to build non resonant ("random wire") endfed antennas.
 (links to Distributors are only examples)
 
 1x PCB: custom order from PCB manufacturer e.g. from https://www.jlcpcb.com or https://aisler.net/
@@ -38,4 +38,6 @@ https://www.amazon.de/GTIWUNG-Vergoldete-Bananenstecker-Elektronische-Kugelsteck
 https://www.amazon.de/gp/product/B06WVCGD7M/ref=ppx_yo_dt_b_asin_title_o09_s01?ie=UTF8&psc=1
 
 
-The winder can also be used with other UnUn windings (like 1:9, 1:4) to build non resonant ("random wire") endfed antennas.
+---------------------
+
+![alt text](https://github.com/DG1JAN/xOTA-Antenna/blob/main/xOTA_Jumper.png)
