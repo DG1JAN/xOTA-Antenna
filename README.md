@@ -7,8 +7,8 @@ maximum power rating:
 
 ![alt text](https://github.com/DG1JAN/xOTA-Antenna/blob/main/xOTA_Ant_3D_Pic1.png)
 
-![alt text](https://github.com/DG1JAN/xOTA-Antenna/blob/main/xOTA-Antenna_example_beta.jpg)
-*pictures are from prev. proto design, will be updated with v1.0 soon.
+![alt text](https://github.com/DG1JAN/xOTA-Antenna/blob/main/xOTA-Antenna_example.jpg)
+(*the two bottom pictures are from the prev. proto desig (labeled as "EFHW" instead of "xOTA-Antenna").
 
 ## BOM (1:49 UnUn for EFHW)
 
