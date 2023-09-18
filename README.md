@@ -36,8 +36,9 @@ https://www.amazon.de/GTIWUNG-Vergoldete-Bananenstecker-Elektronische-Kugelsteck
 
 8 cm Shrink tube 40mm wide - e.g. ISOLATECH	Shrink Tube 40mm  3:1 with glue	
 https://www.amazon.de/gp/product/B06WVCGD7M/ref=ppx_yo_dt_b_asin_title_o09_s01?ie=UTF8&psc=1
-
-
 ---------------------
+
+Take care about clearance between PCB and BNC-Plug (most BNC-Sockets are lower, so you cant connect a plug to the socket when soldert on PCB), use  Molex	"731385033" or similar.	 
+![alt text](https://github.com/DG1JAN/xOTA-Antenna/blob/main/BNC_Socket.png) 
 
 ![alt text](https://github.com/DG1JAN/xOTA-Antenna/blob/main/xOTA_Jumper.png)
