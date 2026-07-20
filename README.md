@@ -1,10 +1,15 @@
 # xOTA-Antenna
 **A pcb for end fed antennas (EFHW, random wire) for SOTA, POTA,... xOTA** <br /><br />
 maximum power rating:
-* FT-140-43: 100W SSB/CW or 50W FT8 (etc)
-* FT-114-43: 25W SSB/CW or 10W FT8 (etc)
-* FT-82-43: 10W SSB/CM or 5W FT8 (etc)
-<br />
+  
+* FT-82-43: 10W SSB/CM or 5W FT8 (etc) <br>
+  TIP: For lowest losses, use a FT82-43 with a FT50-43 placed inside the FT82. (they fit nicely together) A Fair-Rite 5943000601 & 5943001101 have even a better match!
+
+I do not recommend using this design in the FT140-43 and FT114-43 configurations anymore! As my (and other OM's) measurements showed, this toroid’s have >20% core losses across the HF Bands. There are better toroid’s available with losses only in the ~10% range.
+My measuremsnts: https://codeberg.org/dg1jan/UniBalun/src/commit/c4922a3dc82b0e9b0fb2c8530f368f8e2515ac3f/20230620_EFHW_UnUn_efficiency_meas.pdf
+
+**If you are looking for a 100W Version of this winder Style PCB, please consider this Design:**
+https://codeberg.org/dg1jan/xOTA-Antenna-100W
 
 ![alt text](https://github.com/DG1JAN/xOTA-Antenna/blob/main/xOTA_3d_1.1.png)
 
