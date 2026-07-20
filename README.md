@@ -5,7 +5,7 @@ maximum power rating:
 * FT-82-43: 10W SSB/CM or 5W FT8 (etc) <br>
   TIP: For lowest losses, use a FT82-43 with a FT50-43 placed inside the FT82. (they fit nicely together) A Fair-Rite 5943000601 & 5943001101 have even a better match!
 
-I do not recommend using this design in the FT140-43 and FT114-43 configurations anymore! As my (and other OM's) measurements showed, this toroid’s have >20% core losses across the HF Bands. There are better toroid’s available with losses only in the ~10% range.
+**I do not recommend using this design in the FT140-43 and FT114-43 configurations anymore! As my (and other OM's) measurements showed, this toroid’s have >20% core losses across the HF Bands. There are better toroid’s available with losses only in the ~10% range.**
 My measuremsnts: https://codeberg.org/dg1jan/UniBalun/src/commit/c4922a3dc82b0e9b0fb2c8530f368f8e2515ac3f/20230620_EFHW_UnUn_efficiency_meas.pdf
 
 **If you are looking for a 100W Version of this winder Style PCB, please consider this Design:**
